@@ -90,7 +90,7 @@
     "bmaplib.curveline": "^1.0.0",
     "bmaplib.heatmap": "^1.0.4",
     "bmaplib.lushu": "^1.0.7",
-    "bmaplib.markerclusterer": "https://github.com/zdj-666/BMapLib.MarkerClusterer.git",
+    "bmaplib.markerclusterer": "git+https://github.com/zdj-666/BMapLib.MarkerClusterer.git",
     "markdown-it": "^8.4.0"
   }
 }
